@@ -1,0 +1,1 @@
+set WWW_PATH=C:\UniServer\www\
